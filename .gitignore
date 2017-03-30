@@ -1,0 +1,10 @@
+.DS_Store
+
+# Vagrant folder
+/.vagrant
+
+# Composer folder
+/vendor
+
+# Ansible retry files
+/ansible/*.retry
